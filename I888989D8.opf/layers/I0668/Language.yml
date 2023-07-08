@@ -1,0 +1,24 @@
+id: 3308d1e9951148b795078da2d00770a1
+annotation_type: Language
+revision: '00001'
+annotations:
+  13729b1c40c9457d8587cf33e2cec329:
+    span:
+      start: 0
+      end: 1735
+    language: en
+  e5b5f34ffe31444bacefe09a6942b96a:
+    span:
+      start: 4202
+      end: 4233
+    language: sa-Deva
+  29c9e2e1739540d1957674a9f4e8e7b6:
+    span:
+      start: 408172
+      end: 408199
+    language: en
+  15b3101825b34d0485e2f01ca0f79e41:
+    span:
+      start: 419057
+      end: 419086
+    language: en
